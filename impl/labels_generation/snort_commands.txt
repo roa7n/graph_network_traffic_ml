@@ -1,0 +1,2 @@
+sudo snort -c /etc/snort/snort.conf -r /home/ubuntu/storage/test/cyber/2/cyber-zech-2019-2.pcap -A console -q > test.log
+python3 distinct_print.py -in /home/ubuntu/denca-devel/labels/snort/test.log > snort_zkouska.log

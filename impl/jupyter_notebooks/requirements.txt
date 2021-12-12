@@ -1,0 +1,6 @@
+pip install --user pandas
+pip install --user numpy
+pip install --user sklearn
+pip install --user matplotlib
+pip install --user plotly
+pip install --user --upgrade nbformat
