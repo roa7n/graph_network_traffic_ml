@@ -19,7 +19,6 @@ cl-->ev(Evaluation)
 ## Content Description
 
 ```
-thesis_backup/            # LaTeX thesis text backup (Overleaf)
 data/
   cicids2017/             # Dgraph query results for each attack (zipped CSV files) from CIC-IDS2017
   cyberczech/             # Dgraph query results (zipped CSV files) from Cyber Czech
